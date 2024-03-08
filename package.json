@@ -1,6 +1,6 @@
 {
   "name": "maf-blockchain",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Ready to use blockchain technology",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,7 @@
     "maf-converter": "^1.0.2",
     "maf-icons": "^1.0.0",
     "maf-string": "^1.0.0",
-    "maf-table": "^1.0.0"
+    "maf-table": "^1.0.0",
+    "maf-zone": "^1.0.0"
   }
 }
